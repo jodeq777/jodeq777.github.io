@@ -1,0 +1,86 @@
+*{
+    font-family: 'Stalinist One', cursive;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.s1{
+    height: 100vh;
+    box-sizing: border-box;
+
+}
+
+
+.zagol{
+    text-align: center;
+    background-color: rgb(255, 238, 210);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 3%;
+    
+    font-size: 20px;
+}
+
+.kartss{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: right;
+    height: 91%;
+}
+.babka{
+    height: 100%;
+}
+.volk{
+    height: 100%;
+}
+.volchara{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.ssulka{
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.s2{
+    height: 100vh;
+    box-sizing: border-box;
+    background: url("./img/rayon.jpg") center center/cover;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.feik{
+    height: 100%;
+    width: 200px;
+    background-color: rgba(0, 0, 0, 0.700);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column  ;
+}
+.sampleText{
+    margin-bottom: 50px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.nezadam{
+    font-size: 15px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    margin-top: -10px;
+}
+
+.da{
+    font-size: 30px;
+    color: azure;
+    text-align: center; 
+}
+
+.dada{
+    color: azure;
+    font-size:30px;
+}
